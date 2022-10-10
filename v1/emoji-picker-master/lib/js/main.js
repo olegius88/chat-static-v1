@@ -1,0 +1,1 @@
+   EmojiArea.DEFAULTS.assetPath = '<?=get_template_directory_uri()?>/chat/emoji-picker-master/lib/img/';
